@@ -1,0 +1,33 @@
+.content{
+
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-end;
+}
+
+.imageBackground{
+    height: 100vh;
+    position: absolute;
+    left: 0;
+}
+
+.info{
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 40px;
+    color: #FFFF;
+}
+
+.sectionTwo {
+    display: flex;
+    flex-direction: row;
+    justify-content: center; 
+}
+
+.repositorio{
+    font-size: 1.6em;
+    color: #FFFF;
+    margin: 12px 0;
+    text-align: center;
+}

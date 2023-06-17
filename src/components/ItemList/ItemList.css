@@ -1,0 +1,16 @@
+.item-list{
+    margin: 24px 0;
+}
+
+.item-list > strong{
+    color: #539BF5;
+    font-size: 1.2em;
+    text-transform: capitalize;
+    margin: 24px 0;
+}
+
+.item-list > p {
+    color: #999999;
+    font-size: 1em;
+    margin: 20px 0;
+}

@@ -1,0 +1,19 @@
+input{
+    border: 2px solid #9999;
+    border-radius: 22px;
+
+    width: 100%;
+    padding: 10px;
+
+
+    font-size: 1em;
+    text-align: center;
+    background: transparent;
+    color: #FFFF;
+}
+
+@media screen and (min-width: 760px) {
+    input{
+        width: 500px;
+    }
+}

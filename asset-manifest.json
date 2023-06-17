@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/app/static/css/main.073c9b0a.css",
-    "main.js": "/app/static/js/main.3e5143e5.js",
-    "static/js/787.074d24d3.chunk.js": "/app/static/js/787.074d24d3.chunk.js",
-    "static/media/logo.svg": "/app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/app/index.html",
-    "main.073c9b0a.css.map": "/app/static/css/main.073c9b0a.css.map",
-    "main.3e5143e5.js.map": "/app/static/js/main.3e5143e5.js.map",
-    "787.074d24d3.chunk.js.map": "/app/static/js/787.074d24d3.chunk.js.map"
+    "main.css": "/gitfind-react/static/css/main.2b3c5fe2.css",
+    "main.js": "/gitfind-react/static/js/main.b0278c83.js",
+    "index.html": "/gitfind-react/index.html",
+    "main.2b3c5fe2.css.map": "/gitfind-react/static/css/main.2b3c5fe2.css.map",
+    "main.b0278c83.js.map": "/gitfind-react/static/js/main.b0278c83.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.3e5143e5.js"
+    "static/css/main.2b3c5fe2.css",
+    "static/js/main.b0278c83.js"
   ]
 }
